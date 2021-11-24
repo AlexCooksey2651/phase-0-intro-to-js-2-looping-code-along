@@ -27,8 +27,7 @@ console.log(writeCards(["Ada", "Brendan", "Ali"], "birthday"))
 
 function countDown(posInt) {
     while (posInt >= 0) {
-        console.log(posInt)
-        posInt--
+        console.log(posInt);
     }
 }
 
